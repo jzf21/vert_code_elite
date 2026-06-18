@@ -1,0 +1,1785 @@
+{
+  "program": "VertCode Elite",
+  "phases": [
+    {
+      "phase": 1,
+      "title": "Build The Base",
+      "workouts": [
+        {
+          "name": "Lower Body",
+          "days": [
+            1,
+            5
+          ],
+          "overviewUrl": "https://youtu.be/GKkANvzMT2k",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU",
+              "sets": 1
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU",
+              "sets": 1
+            },
+            {
+              "name": "TKE Partial Squat",
+              "videoUrl": "https://youtu.be/WSpsuwhj9dc",
+              "reps": "15"
+            },
+            {
+              "name": "Shoulder Elevated Bridge March",
+              "videoUrl": "https://youtu.be/vfpp9sj8p0I",
+              "sets": 2,
+              "reps": "5"
+            },
+            {
+              "name": "Split Stance Groove Set",
+              "videoUrl": "https://youtu.be/4hWq9eiEfZg",
+              "sets": 1,
+              "rest": "60s",
+              "duration": "30s"
+            },
+            {
+              "name": "Alternating Ankle Hop",
+              "videoUrl": "https://youtu.be/Bl3gsXqvrfY",
+              "sets": 2,
+              "rest": "60s",
+              "duration": "30s"
+            },
+            {
+              "name": "Standing Vertical Jump",
+              "videoUrl": "https://youtu.be/6KNbeEi2nWE",
+              "sets": 2,
+              "reps": "6",
+              "rest": "90s"
+            },
+            {
+              "name": "Split Stick Lateral Drill",
+              "videoUrl": "https://youtu.be/-e99J2CFf80",
+              "sets": 3,
+              "reps": "6",
+              "rest": "60s"
+            },
+            {
+              "name": "Oscillating Squat",
+              "videoUrl": "https://youtu.be/LmV5N2o6WZ4",
+              "sets": 3,
+              "reps": "12",
+              "rest": "60s"
+            },
+            {
+              "name": "RFESS Iso Hold Reps",
+              "videoUrl": "https://youtu.be/MtKvnn8UW5c",
+              "sets": 3,
+              "reps": "4",
+              "rest": "60s"
+            },
+            {
+              "name": "Hyperextension Hold Plate Drop",
+              "videoUrl": "https://youtu.be/tOdinF0QqvQ",
+              "sets": 3,
+              "reps": "12",
+              "rest": "60s"
+            },
+            {
+              "name": "One Leg Functional Calf Raise",
+              "videoUrl": "https://youtu.be/RdQkFfgmkR4",
+              "sets": 3,
+              "reps": "12",
+              "rest": "30s"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8",
+              "sets": 1,
+              "duration": "3 minutes"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM",
+              "sets": 1,
+              "notes": "Optional"
+            }
+          ]
+        },
+        {
+          "name": "Mobility/Core/Feet & Ankles",
+          "days": [
+            2,
+            4
+          ],
+          "overviewUrl": "https://youtu.be/yqu1H5wd8gY",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU",
+              "sets": 1
+            },
+            {
+              "name": "Hamstring Floss",
+              "videoUrl": "https://youtu.be/108pEN5o0I8",
+              "reps": "10"
+            },
+            {
+              "name": "Supine Kick Over",
+              "videoUrl": "https://youtu.be/z5RA6CgqTtg",
+              "reps": "10"
+            },
+            {
+              "name": "PNF V Sit",
+              "videoUrl": "https://youtu.be/UDMvRchmNd0",
+              "reps": "3"
+            },
+            {
+              "name": "90/90 Hip Opener",
+              "videoUrl": "https://youtu.be/5MsIiRw3te0",
+              "reps": "7"
+            },
+            {
+              "name": "Hip Flexor Tilt",
+              "videoUrl": "https://youtu.be/lEiiHdbEa2U",
+              "reps": "4"
+            },
+            {
+              "name": "Kneeling Adductor Pulse",
+              "videoUrl": "https://youtu.be/_zQ66X8Ga2U",
+              "reps": "6"
+            },
+            {
+              "name": "Loaded Ankle Mobility",
+              "videoUrl": "https://youtu.be/LclYMbWZPu8",
+              "reps": "6"
+            },
+            {
+              "name": "Standing Hip Car",
+              "videoUrl": "https://youtu.be/88T5GdHy__U",
+              "reps": "5"
+            },
+            {
+              "name": "Butterfly Lift Off",
+              "videoUrl": "https://youtu.be/KAD6W8ukteA",
+              "reps": "5"
+            },
+            {
+              "name": "Posterior Lift Off",
+              "videoUrl": "https://youtu.be/1b4zUkpEG-I",
+              "reps": "5"
+            },
+            {
+              "name": "Overhead Deep Squat Progression",
+              "videoUrl": "https://youtu.be/lC76WeXeSn4",
+              "reps": "5"
+            },
+            {
+              "name": "Deadbug Rocker Series",
+              "videoUrl": "https://youtu.be/mNvtpTpZiYI",
+              "sets": 3,
+              "reps": "8"
+            },
+            {
+              "name": "Miniband Ankle Turn",
+              "videoUrl": "https://youtu.be/eXrWRT77AvM",
+              "sets": 3,
+              "reps": "25"
+            },
+            {
+              "name": "Da Vinci Plank",
+              "videoUrl": "https://youtu.be/Grl5nL1pySM",
+              "sets": 3,
+              "duration": "25s"
+            },
+            {
+              "name": "Michael Jackson Leans",
+              "videoUrl": "https://youtu.be/ZtKb0DFuc0I",
+              "sets": 3,
+              "reps": "7"
+            },
+            {
+              "name": "Rip Through Pallof Press",
+              "videoUrl": "https://youtu.be/LX_VgG2EIy4",
+              "sets": 3,
+              "reps": "7"
+            },
+            {
+              "name": "Independent Toe Raises",
+              "videoUrl": "https://youtu.be/xwPk7Hy2Fu4",
+              "sets": 3,
+              "reps": "7"
+            },
+            {
+              "name": "Reach Through Turn",
+              "videoUrl": "https://youtu.be/JFqnxjQ2Kec",
+              "sets": 3,
+              "reps": "5"
+            },
+            {
+              "name": "One Leg Turn",
+              "videoUrl": "https://youtu.be/ebxvrm96lNY",
+              "sets": 3,
+              "reps": "5"
+            }
+          ]
+        },
+        {
+          "name": "Jump Mechanics & Pool Work",
+          "days": [
+            3
+          ],
+          "overviewUrl": "https://youtu.be/OEjGxq82YMk",
+          "exercises": [
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU",
+              "sets": 1
+            },
+            {
+              "name": "Penultimate Acceleration",
+              "videoUrl": "https://youtu.be/pcFVH7FjIQY",
+              "sets": 2,
+              "reps": "5",
+              "rest": "30s"
+            },
+            {
+              "name": "Mechanics Primer",
+              "videoUrl": "https://youtu.be/sXV4uiSlG9o",
+              "sets": 2,
+              "reps": "4"
+            },
+            {
+              "name": "Penultimate Max Touch",
+              "videoUrl": "https://youtu.be/Gf0lKUYuptI",
+              "sets": 4,
+              "reps": "2",
+              "rest": "60s"
+            },
+            {
+              "name": "Penultimate Hurdle Hop",
+              "videoUrl": "https://youtu.be/LJ-Cc4rtLC4",
+              "sets": 3,
+              "reps": "1",
+              "rest": "90s"
+            },
+            {
+              "name": "15ft Approach Jump",
+              "videoUrl": "https://youtu.be/-XzPLcc4m_8",
+              "sets": 3,
+              "reps": "2",
+              "rest": "60s"
+            },
+            {
+              "name": "1ft Approach Touch",
+              "videoUrl": "https://youtu.be/rL1nAx4xK18",
+              "sets": 3,
+              "reps": "2",
+              "rest": "60s"
+            },
+            {
+              "name": "High Knees",
+              "videoUrl": "https://youtu.be/U_UCmoUwWLs",
+              "sets": 2,
+              "duration": "30s"
+            },
+            {
+              "name": "Side Swing",
+              "videoUrl": "https://youtu.be/5VnLr-eXZLs",
+              "sets": 2,
+              "reps": "10"
+            },
+            {
+              "name": "Explosive Flexion Extension",
+              "videoUrl": "https://youtu.be/itgA2FEPKS8",
+              "sets": 2,
+              "reps": "10"
+            },
+            {
+              "name": "Hip Opener",
+              "videoUrl": "https://youtu.be/8mVlKjKTGYY",
+              "sets": 2,
+              "reps": "5"
+            },
+            {
+              "name": "Internal/External Rotation",
+              "videoUrl": "https://youtu.be/g4hoAloEDho",
+              "sets": 2,
+              "reps": "15",
+              "rest": "30s"
+            },
+            {
+              "name": "Sprinter Kicks",
+              "videoUrl": "https://youtu.be/g6swmnPp9nI",
+              "sets": 2,
+              "reps": "10",
+              "rest": "30s"
+            },
+            {
+              "name": "Cross/Cross Pogo Jump",
+              "videoUrl": "https://youtu.be/nXbUmw0lfXY",
+              "sets": 3,
+              "reps": "10",
+              "rest": "30s"
+            },
+            {
+              "name": "Linear Knee Drive for Speed",
+              "videoUrl": "https://youtu.be/ADCzwLsGuK4",
+              "sets": 3,
+              "reps": "15",
+              "rest": "30s"
+            },
+            {
+              "name": "Linear Knee Drive for Height",
+              "videoUrl": "https://youtu.be/D4OXDFifT70",
+              "sets": 3,
+              "reps": "15",
+              "rest": "30s"
+            },
+            {
+              "name": "1 Leg Pause Jump",
+              "videoUrl": "https://youtu.be/ZFMOBBMtYuM",
+              "sets": 3,
+              "reps": "10",
+              "rest": "30s"
+            },
+            {
+              "name": "Flutter Fatigue Jump",
+              "videoUrl": "https://youtu.be/SBcIvHHQpfo",
+              "sets": 5,
+              "duration": "15s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "title": "Sprint/Reactive Plyometrics",
+      "workouts": [
+        {
+          "name": "Sprint/Reactive Plyometrics/Dunk Day",
+          "overviewUrl": "https://youtu.be/baTY5dMz25k",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU",
+              "sets": 1
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU",
+              "sets": 1
+            },
+            {
+              "name": "Max Sprint",
+              "videoUrl": "https://youtu.be/1M-biC8oy78",
+              "sets": 6,
+              "reps": "1",
+              "rest": "150s"
+            },
+            {
+              "name": "Broad Jump/Bound Rhythm Max Touch",
+              "videoUrl": "https://youtu.be/M7pnwO2k5fw",
+              "sets": 2,
+              "reps": "2",
+              "rest": "120s"
+            },
+            {
+              "name": "Power Skips Into 1 Leg Max Touch",
+              "videoUrl": "https://youtu.be/NYd-SmHtkLE",
+              "sets": 2,
+              "reps": "2",
+              "rest": "120s"
+            },
+            {
+              "name": "10 Minute Freestyle Dunk Session",
+              "videoUrl": "https://youtu.be/3GoijfqFN2I",
+              "sets": 1,
+              "duration": "10 minutes"
+            },
+            {
+              "name": "Partial Leg Press",
+              "videoUrl": "https://youtu.be/LQYL6mcAvlE",
+              "sets": 3,
+              "reps": "8",
+              "rest": "60s"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8",
+              "sets": 1
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM",
+              "sets": 1
+            }
+          ]
+        },
+        {
+          "name": "Core/Mobility/Feet",
+          "overviewUrl": "https://youtu.be/dP-I-mangdY",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Lateral Line Stretch",
+              "videoUrl": "https://youtu.be/JURCuv8r33E"
+            },
+            {
+              "name": "Deep Squat Ankle Mobility",
+              "videoUrl": "https://youtu.be/CDuqhC9wa4s"
+            },
+            {
+              "name": "Hamstring Floss",
+              "videoUrl": "https://youtu.be/108pEN5o0I8"
+            },
+            {
+              "name": "Supine Kick Over",
+              "videoUrl": "https://youtu.be/z5RA6CgqTtg"
+            },
+            {
+              "name": "90/90 Hip Opener",
+              "videoUrl": "https://youtu.be/5MsIiRw3te0"
+            },
+            {
+              "name": "Hip Flexor Tilt",
+              "videoUrl": "https://youtu.be/lEiiHdbEa2U"
+            },
+            {
+              "name": "Kneeling Adductor Pulse",
+              "videoUrl": "https://youtu.be/_zQ66X8Ga2U"
+            },
+            {
+              "name": "Standing Hip Car",
+              "videoUrl": "https://youtu.be/88T5GdHy__U"
+            },
+            {
+              "name": "Overhead Deep Squat Progression",
+              "videoUrl": "https://youtu.be/lC76WeXeSn4"
+            },
+            {
+              "name": "Stability Ball Stir the Pot",
+              "videoUrl": "https://youtu.be/RO5FpzS-ZGQ"
+            },
+            {
+              "name": "Ball of the Foot One Leg Turn",
+              "videoUrl": "https://youtu.be/w7hbGKjudyA"
+            },
+            {
+              "name": "Stability Ball Roll Up",
+              "videoUrl": "https://youtu.be/KjmGfCKNicY"
+            },
+            {
+              "name": "Arch Squat",
+              "videoUrl": "https://youtu.be/Ltrhz90IsOA"
+            },
+            {
+              "name": "Prone Pull Through",
+              "videoUrl": "https://youtu.be/KgvJvqASDBY"
+            },
+            {
+              "name": "Mini Band Ankle Turn",
+              "videoUrl": "https://youtu.be/VJG9c6rh8mU"
+            },
+            {
+              "name": "Cable Drop Step Rotation",
+              "videoUrl": "https://youtu.be/sR4okVndHNw"
+            },
+            {
+              "name": "Big Toe Extension",
+              "videoUrl": "https://youtu.be/pcVoeNQFHRk"
+            }
+          ]
+        },
+        {
+          "name": "Load/Explode",
+          "overviewUrl": "https://youtu.be/ycOQ-3cya3Y",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Knee Over Toe Split Stance Squat",
+              "videoUrl": "https://youtu.be/J1hITXw8vfg"
+            },
+            {
+              "name": "Reverse Plank Alternating Hold",
+              "videoUrl": "https://youtu.be/1PMPDOOg-UA"
+            },
+            {
+              "name": "Ring OR Cone Change of Direction LVL 2",
+              "videoUrl": "https://youtu.be/DM1g4ZZrFXY"
+            },
+            {
+              "name": "Line Acceleration Deceleration",
+              "videoUrl": "https://youtu.be/GBEBhhOky5k"
+            },
+            {
+              "name": "Line V Cut",
+              "videoUrl": "https://youtu.be/sh3iJFzUb7s"
+            },
+            {
+              "name": "Line Rotational Agility",
+              "videoUrl": "https://youtu.be/HWP6jfE41L4"
+            },
+            {
+              "name": "Overcoming Isometric Hold",
+              "videoUrl": "https://youtu.be/Bbi0OU60BrQ"
+            },
+            {
+              "name": "Assisted Jump",
+              "videoUrl": "https://youtu.be/s91H-GiUUJc"
+            },
+            {
+              "name": "Dumbbell One Step Jump",
+              "videoUrl": "https://youtu.be/esCQXXKW7mQ"
+            },
+            {
+              "name": "One Two Depth Drop",
+              "videoUrl": "https://youtu.be/COYv1js8lFs"
+            },
+            {
+              "name": "Deadlift/RDL Combo",
+              "videoUrl": "https://youtu.be/Dd9_NIC9MG0"
+            },
+            {
+              "name": "Oscillating RFESS",
+              "videoUrl": "https://youtu.be/tXx9gym-mbo"
+            },
+            {
+              "name": "Achilles Spring Combo",
+              "videoUrl": "https://youtu.be/_FrHXnA7_58"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "title": "Combo/Explode",
+      "workouts": [
+        {
+          "name": "Combo Lower/Dunk Day",
+          "overviewUrl": "https://youtu.be/tTYezsm8-Yo",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Box Drop Crossover Step",
+              "videoUrl": "https://youtu.be/0EqNW_5sWiA"
+            },
+            {
+              "name": "Non Countermovement One Leg Pistol Jump",
+              "videoUrl": "https://youtu.be/KfQSBikhuOk"
+            },
+            {
+              "name": "Versatile Jump Drill",
+              "videoUrl": "https://youtu.be/XMHuUwigjZo"
+            },
+            {
+              "name": "10 Minute Freestyle Dunk Session",
+              "videoUrl": "https://youtu.be/3GoijfqFN2I"
+            },
+            {
+              "name": "Drach RFESS",
+              "videoUrl": "https://youtu.be/dn9V-UBGL3c"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/fcR3-6QT_8g",
+          "exercises": [
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Split Stance Anti Rotation ABC",
+              "videoUrl": "https://youtu.be/1TqxtWcVPQg"
+            },
+            {
+              "name": "Band Distracted Hamstring Stretch",
+              "videoUrl": "https://youtu.be/N86m8ilhpKM"
+            },
+            {
+              "name": "Lateral Flexion",
+              "videoUrl": "https://youtu.be/G5ONafuc3Ps"
+            },
+            {
+              "name": "Elastic Leg Kicks",
+              "videoUrl": "https://youtu.be/MMzcVfqZykM"
+            },
+            {
+              "name": "Leg Lowers",
+              "videoUrl": "https://youtu.be/NxCXQmfRrtY"
+            },
+            {
+              "name": "Double Band Lateral Push Out",
+              "videoUrl": "https://youtu.be/uw44dCSkn58"
+            },
+            {
+              "name": "Deep Squat Ankle Mobility",
+              "videoUrl": "https://youtu.be/CDuqhC9wa4s"
+            }
+          ]
+        },
+        {
+          "name": "Explode",
+          "overviewUrl": "https://youtu.be/tGS-EmZg46o",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Plate Overhead Deep Squat",
+              "videoUrl": "https://youtu.be/CFBZwgNjPkM"
+            },
+            {
+              "name": "Half Kneeling Change of Direction",
+              "videoUrl": "https://youtu.be/KUYdM3-AL2E"
+            },
+            {
+              "name": "Non Countermovement Lateral to Sprint",
+              "videoUrl": "https://youtu.be/TDHODCsC1vE"
+            },
+            {
+              "name": "Weighted Jump High Pull",
+              "videoUrl": "https://youtu.be/Moj0BtysAA4"
+            },
+            {
+              "name": "Velocity Squat",
+              "videoUrl": "https://youtu.be/2_rA_ZjiK1c"
+            },
+            {
+              "name": "15ft Approach Jump",
+              "videoUrl": "https://youtu.be/-XzPLcc4m_8"
+            },
+            {
+              "name": "Band Back Extension",
+              "videoUrl": "https://youtu.be/RTVwSu0Q8dw"
+            },
+            {
+              "name": "Ball of the Foot One Leg Turn",
+              "videoUrl": "https://youtu.be/w7hbGKjudyA"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "title": "Plyometrics",
+      "workouts": [
+        {
+          "name": "Plyometrics 1",
+          "overviewUrl": "https://youtu.be/uEfWx30RJCA",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Band Split Lateral",
+              "videoUrl": "https://youtu.be/234vobqcDmU"
+            },
+            {
+              "name": "Speed Drop One Foot Jump",
+              "videoUrl": "https://youtu.be/QB_HhMHL7_8"
+            },
+            {
+              "name": "Progressive Bounds",
+              "videoUrl": "https://youtu.be/HzBleiA6IQw"
+            },
+            {
+              "name": "Consecutive Hurdle Jumps",
+              "videoUrl": "https://youtu.be/UF-8ELMpcdI"
+            },
+            {
+              "name": "Non Counter Movement Explosive Pistol",
+              "videoUrl": "https://youtu.be/vrMgwUrV8_Y"
+            },
+            {
+              "name": "Barbell RDL",
+              "videoUrl": "https://youtu.be/3JIfCQoLYKc"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            }
+          ]
+        },
+        {
+          "name": "Plyometrics 2",
+          "overviewUrl": "https://youtu.be/1vvKnsbiO48",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Band Resisted First Step Explosion",
+              "videoUrl": "https://youtu.be/UzaYax7AjHA"
+            },
+            {
+              "name": "Dumbbell Power Skip",
+              "videoUrl": "https://youtu.be/m9cHGE6nrTI"
+            },
+            {
+              "name": "One Leg Hurdle Jump",
+              "videoUrl": "https://youtu.be/Ed8xaG1DDmI"
+            },
+            {
+              "name": "Explosive Box Step Up",
+              "videoUrl": "https://youtu.be/9y2_rHWTK0Q"
+            },
+            {
+              "name": "10 Minute Freestyle Dunk Session",
+              "videoUrl": "https://youtu.be/3GoijfqFN2I"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/HYBMzD0w6xY",
+          "exercises": [
+            {
+              "name": "Rocking Deadbug",
+              "videoUrl": "https://youtu.be/JCrQXwAsSFk"
+            },
+            {
+              "name": "Hamstring Floss",
+              "videoUrl": "https://youtu.be/108pEN5o0I8"
+            },
+            {
+              "name": "Rocking Plank",
+              "videoUrl": "https://youtu.be/9WNP6qOXBk0"
+            },
+            {
+              "name": "Lateral Line Stretch",
+              "videoUrl": "https://youtu.be/JURCuv8r33E"
+            },
+            {
+              "name": "Cable Cross Swing",
+              "videoUrl": "https://youtu.be/Gvv-w4ZEbZg"
+            },
+            {
+              "name": "Hip Flexor Tilt",
+              "videoUrl": "https://youtu.be/lEiiHdbEa2U"
+            },
+            {
+              "name": "Side Plank Row",
+              "videoUrl": "https://youtu.be/bWsHZ2uW9us"
+            },
+            {
+              "name": "Elastic Leg Kicks",
+              "videoUrl": "https://youtu.be/MMzcVfqZykM"
+            }
+          ]
+        },
+        {
+          "name": "Plyometrics 3",
+          "overviewUrl": "https://youtu.be/uEfWx30RJCA",
+          "exercises": [
+            {
+              "name": "Freestyle Agility",
+              "videoUrl": "https://youtu.be/xkrEgPQPk8I"
+            },
+            {
+              "name": "Progressive Bounds",
+              "videoUrl": "https://youtu.be/HzBleiA6IQw"
+            },
+            {
+              "name": "Double Leg Hurdle Jump",
+              "videoUrl": "https://youtu.be/BoROyOxywAw"
+            },
+            {
+              "name": "Non Counter Movement Explosive Pistol",
+              "videoUrl": "https://youtu.be/vrMgwUrV8_Y"
+            },
+            {
+              "name": "Barbell RDL",
+              "videoUrl": "https://youtu.be/3JIfCQoLYKc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "title": "Lower Strength/Explosion",
+      "workouts": [
+        {
+          "name": "Lower Strength/Explosion Combo",
+          "overviewUrl": "https://youtu.be/RYe6t4rz9vI",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Band Rapid Laterals",
+              "videoUrl": "https://youtu.be/qDuVNdAYj2w"
+            },
+            {
+              "name": "Lateral Bound One Foot Jump",
+              "videoUrl": "https://youtu.be/Aq3ON-E3KOY"
+            },
+            {
+              "name": "Overspeed Block Step",
+              "videoUrl": "https://youtu.be/PRvlkWgnhM0"
+            },
+            {
+              "name": "Acceleration Zone Jump",
+              "videoUrl": "https://youtu.be/9phhKki08sU"
+            },
+            {
+              "name": "Hang High Pull",
+              "videoUrl": "https://youtu.be/miNUrPf9NcY"
+            },
+            {
+              "name": "Pogo Box Taps",
+              "videoUrl": "https://youtu.be/uL4A39Z7Ccg"
+            },
+            {
+              "name": "Split Stance Pin Squat",
+              "videoUrl": "https://youtu.be/xSs2hQhP2Ys"
+            },
+            {
+              "name": "Rhythm Quarter Squats",
+              "videoUrl": "https://youtu.be/cfypaSHmgTM"
+            },
+            {
+              "name": "Cable Pull Through",
+              "videoUrl": "https://youtu.be/S9kGC2z2TPQ"
+            },
+            {
+              "name": "Sub Max Long Duration Jumps",
+              "videoUrl": "https://youtu.be/SFgD4uzWARU"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Core",
+          "overviewUrl": "https://youtu.be/lftHIYrKZS8",
+          "exercises": [
+            {
+              "name": "Leg Climb",
+              "videoUrl": "https://youtu.be/KQPK_popxkI"
+            },
+            {
+              "name": "Hand Walk Out",
+              "videoUrl": "https://youtu.be/-XRkofUgYz0"
+            },
+            {
+              "name": "Da Vinci Plank",
+              "videoUrl": "https://youtu.be/Grl5nL1pySM"
+            },
+            {
+              "name": "Cable Drop Step Rotation",
+              "videoUrl": "https://youtu.be/sR4okVndHNw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "title": "Speed & Power",
+      "workouts": [
+        {
+          "name": "Speed & Power",
+          "overviewUrl": "https://youtu.be/fyNgNuhfdJE",
+          "exercises": [
+            {
+              "name": "Max Sprint",
+              "videoUrl": "https://youtu.be/1M-biC8oy78"
+            },
+            {
+              "name": "Speed Bounds",
+              "videoUrl": "https://youtu.be/thVDGo3y4EA"
+            },
+            {
+              "name": "Broad Jump/Bound Rhythm Max Touch",
+              "videoUrl": "https://youtu.be/M7pnwO2k5fw"
+            },
+            {
+              "name": "Lateral Double Bound",
+              "videoUrl": "https://youtu.be/8eSndB61VFg"
+            },
+            {
+              "name": "Consecutive Hurdle Jumps",
+              "videoUrl": "https://youtu.be/UF-8ELMpcdI"
+            },
+            {
+              "name": "Oscillating Ankle Stiffness",
+              "videoUrl": "https://youtu.be/xyzidLmjFF0"
+            },
+            {
+              "name": "Hamstring Chair Alternating Holds",
+              "videoUrl": "https://youtu.be/W70Asung72s"
+            }
+          ]
+        },
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/U6RhWSLTaUo",
+          "exercises": [
+            {
+              "name": "Side Plank Hip Abduction",
+              "videoUrl": "https://youtu.be/Gp4lJIXX5QA"
+            },
+            {
+              "name": "PRI Floss",
+              "videoUrl": "https://youtu.be/PX6tQp8IV8o"
+            },
+            {
+              "name": "Rocking Deadbug",
+              "videoUrl": "https://youtu.be/JCrQXwAsSFk"
+            },
+            {
+              "name": "Rotational Rolling Mobility",
+              "videoUrl": "https://youtu.be/pSIa4Tph_L0"
+            },
+            {
+              "name": "Leg Lowers",
+              "videoUrl": "https://youtu.be/NxCXQmfRrtY"
+            },
+            {
+              "name": "Lower Back Angels",
+              "videoUrl": "https://youtu.be/y4ulpI-0vZs"
+            }
+          ]
+        },
+        {
+          "name": "Combo Strength Plyo",
+          "overviewUrl": "https://youtu.be/mFho_TWX3Xo",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Acceleration Jump Start",
+              "videoUrl": "https://youtu.be/hRqY1WyRJvU"
+            },
+            {
+              "name": "Stutter Euro Drill",
+              "videoUrl": "https://youtu.be/Lz86ls6MeSw"
+            },
+            {
+              "name": "Single Leg Skip Bounds",
+              "videoUrl": "https://youtu.be/ta5c1Set5Z0"
+            },
+            {
+              "name": "10 Minute Freestyle Dunk Session",
+              "videoUrl": "https://youtu.be/3GoijfqFN2I"
+            },
+            {
+              "name": "Triple Contrast Cluster Set",
+              "videoUrl": "https://youtu.be/EPmoksN5tzw"
+            },
+            {
+              "name": "Rear Foot Elevated Deficit",
+              "videoUrl": "https://youtu.be/w0PZf4FcMaY"
+            },
+            {
+              "name": "Ball of the Foot One Leg Turn",
+              "videoUrl": "https://youtu.be/w7hbGKjudyA"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 7,
+      "title": "Agility & Strength",
+      "workouts": [
+        {
+          "name": "Agility Plyo",
+          "overviewUrl": "https://youtu.be/ChBB00gLGuc",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Lateral Med Ball Toss",
+              "videoUrl": "https://youtu.be/tle0AKyalGA"
+            },
+            {
+              "name": "Med Ball Acceleration:Change of Direction",
+              "videoUrl": "https://youtu.be/ZMbuMebGV4U"
+            },
+            {
+              "name": "Bound Sprints",
+              "videoUrl": "https://youtu.be/h6qw_EqwdZA"
+            },
+            {
+              "name": "One Leg Depth Jump",
+              "videoUrl": "https://youtu.be/QOUhEwP4exo"
+            },
+            {
+              "name": "Contrast Split Stance Jumps",
+              "videoUrl": "https://youtu.be/8C7Ndn-dnKw"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Lower Strength",
+          "overviewUrl": "https://youtu.be/DSz5gmGWqWo",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Split Stance Clean",
+              "videoUrl": "https://youtu.be/6lF-eiIaVrE"
+            },
+            {
+              "name": "Single Leg Box Step Down",
+              "videoUrl": "https://youtu.be/RpAtilby77c"
+            },
+            {
+              "name": "Nordic Hamstring Curls",
+              "videoUrl": "https://youtu.be/yzAkmCcoFHs"
+            },
+            {
+              "name": "Rapid Calf Raise",
+              "videoUrl": "https://youtu.be/Zl6xhK_is1k"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/NfxJ7pU9HqU",
+          "exercises": [
+            {
+              "name": "Russian Dumbbell Punch",
+              "videoUrl": "https://youtu.be/bZcq3QVE5ug"
+            },
+            {
+              "name": "Band Pronation Supination",
+              "videoUrl": "https://youtu.be/tvr_mkyW9Mc"
+            },
+            {
+              "name": "Rolling Cross Touch",
+              "videoUrl": "https://youtu.be/aaobgFLJHeY"
+            },
+            {
+              "name": "Band Straight Leg Raise",
+              "videoUrl": "https://youtu.be/siVECbgPNL0"
+            },
+            {
+              "name": "Side Plank",
+              "videoUrl": "https://youtu.be/cyOa-iRwiLc"
+            },
+            {
+              "name": "Kneeling Hip Mobility",
+              "videoUrl": "https://youtu.be/jgwRDvUsmCY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 8,
+      "title": "Advanced Agility & Strength",
+      "workouts": [
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/tc0WjI00za8",
+          "exercises": [
+            {
+              "name": "Stability Ball Mountain Climber Hold",
+              "videoUrl": "https://youtu.be/7c8xoKpOfmw"
+            },
+            {
+              "name": "Ankle Toe Crawls",
+              "videoUrl": "https://youtu.be/u0EyuZndvkY"
+            },
+            {
+              "name": "Leg Climb",
+              "videoUrl": "https://youtu.be/KQPK_popxkI"
+            },
+            {
+              "name": "Adductor Stretch",
+              "videoUrl": "https://youtu.be/RJQ6tkpQjno"
+            },
+            {
+              "name": "Cable Drop Step Rotation",
+              "videoUrl": "https://youtu.be/sR4okVndHNw"
+            },
+            {
+              "name": "Rotational Rolling Mobility",
+              "videoUrl": "https://youtu.be/pSIa4Tph_L0"
+            },
+            {
+              "name": "Lower Back Angels",
+              "videoUrl": "https://youtu.be/y4ulpI-0vZs"
+            },
+            {
+              "name": "Band Straight Leg Raise",
+              "videoUrl": "https://youtu.be/siVECbgPNL0"
+            }
+          ]
+        },
+        {
+          "name": "Agility/Plyo",
+          "overviewUrl": "https://youtu.be/3iM9wzVeQ2E",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Pump Fake Stability",
+              "videoUrl": "https://youtu.be/lag8_ZxTUKc"
+            },
+            {
+              "name": "One Leg Multidirectional Hurdle Hop",
+              "videoUrl": "https://youtu.be/iJWLt4vRXuk"
+            },
+            {
+              "name": "Rapid Crossover Step",
+              "videoUrl": "https://youtu.be/Xn9eaa3NKMw"
+            },
+            {
+              "name": "Power Skip",
+              "videoUrl": "https://youtu.be/gs-hTmL8djk"
+            },
+            {
+              "name": "SSC Step Up Jumps",
+              "videoUrl": "https://youtu.be/xHdC5bJ1w-Y"
+            },
+            {
+              "name": "Rapid Weighted Jumps",
+              "videoUrl": "https://youtu.be/hUuUvfeMljo"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Lower Strength",
+          "overviewUrl": "https://youtu.be/umwpeUbaHrI",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Peterson Step Up",
+              "videoUrl": "https://youtu.be/YznkO0TXI1s"
+            },
+            {
+              "name": "Hang High Pull",
+              "videoUrl": "https://youtu.be/miNUrPf9NcY"
+            },
+            {
+              "name": "One Leg RDL Swing",
+              "videoUrl": "https://youtu.be/tdX4ZeJfH7I"
+            },
+            {
+              "name": "Rear Foot Elevated Split Squat",
+              "videoUrl": "https://youtu.be/NJMD3-x9zOI"
+            },
+            {
+              "name": "Nordic Hamstring Curls",
+              "videoUrl": "https://youtu.be/yzAkmCcoFHs"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 9,
+      "title": "Peak Agility & Strength",
+      "workouts": [
+        {
+          "name": "Agility Plyo",
+          "overviewUrl": "https://youtu.be/yKsq8Qx1Hvw",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "One Two Push Out",
+              "videoUrl": "https://youtu.be/D9k62g_O1FA"
+            },
+            {
+              "name": "Hip Swivel Backpedal",
+              "videoUrl": "https://youtu.be/Duxj_oIQjTY"
+            },
+            {
+              "name": "Bound Sprints",
+              "videoUrl": "https://youtu.be/h6qw_EqwdZA"
+            },
+            {
+              "name": "Lateral Bound Dumbbell Punch lvl  1",
+              "videoUrl": "https://youtu.be/gzAI6KtnM_I"
+            },
+            {
+              "name": "Box Drop Med Ball Toss",
+              "videoUrl": "https://youtu.be/SoFx_K3vhuQ"
+            },
+            {
+              "name": "10 Minute Freestyle Dunk Session",
+              "videoUrl": "https://youtu.be/3GoijfqFN2I"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Lower Strength",
+          "overviewUrl": "https://youtu.be/BzsmrSuXoXs",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Lateral Step Core Stiffness",
+              "videoUrl": "https://youtu.be/0NA2Uq8a9Vw"
+            },
+            {
+              "name": "Eccentric Overloaded One Leg RDL",
+              "videoUrl": "https://youtu.be/ly0yT35ebxU"
+            },
+            {
+              "name": "TKE RFESS",
+              "videoUrl": "https://youtu.be/LwR06a5iwY4"
+            },
+            {
+              "name": "Band Stability Ball Hamstring Curl",
+              "videoUrl": "https://youtu.be/FjTposW4UgA"
+            },
+            {
+              "name": "Rear Foot Elevated Foot Pops",
+              "videoUrl": "https://youtu.be/PWmK090nAD8"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/N_2kq-VQcWk",
+          "exercises": [
+            {
+              "name": "Leg Raises",
+              "videoUrl": "https://youtu.be/-AnzzrF7WAQ"
+            },
+            {
+              "name": "Ankle Toe Crawls",
+              "videoUrl": "https://youtu.be/u0EyuZndvkY"
+            },
+            {
+              "name": "Lateral Oblique Crunch",
+              "videoUrl": "https://youtu.be/LoTSvbz9oGA"
+            },
+            {
+              "name": "Single Leg Supported Rotation",
+              "videoUrl": "https://youtu.be/U7yxlUCHuTA"
+            },
+            {
+              "name": "Rolling Cross Touch",
+              "videoUrl": "https://youtu.be/aaobgFLJHeY"
+            },
+            {
+              "name": "Hip Flexor Tilt",
+              "videoUrl": "https://youtu.be/lEiiHdbEa2U"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 10,
+      "title": "Peak Performance",
+      "workouts": [
+        {
+          "name": "Lower Strength",
+          "overviewUrl": "https://youtu.be/Gs-jUnLpG68",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Rear Foot Elevated Split Squat",
+              "videoUrl": "https://youtu.be/NJMD3-x9zOI"
+            },
+            {
+              "name": "Full Range Motion RDL",
+              "videoUrl": "https://youtu.be/bFmtkp3MNcg"
+            },
+            {
+              "name": "Mini Band Inversion/Eversion",
+              "videoUrl": "https://youtu.be/R0rXWF21z6s"
+            },
+            {
+              "name": "One Leg Functional Calf Raise",
+              "videoUrl": "https://youtu.be/RdQkFfgmkR4"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Plyo/Agility",
+          "overviewUrl": "https://youtu.be/_GeHZ6im-bw",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Music Freestyle Agility",
+              "videoUrl": "https://youtu.be/MBBL0rWQWq0"
+            },
+            {
+              "name": "Lateral Med Ball Toss",
+              "videoUrl": "https://youtu.be/tle0AKyalGA"
+            },
+            {
+              "name": "Med Ball Acceleration:Change of Direction",
+              "videoUrl": "https://youtu.be/ZMbuMebGV4U"
+            },
+            {
+              "name": "High Box Depth Jump",
+              "videoUrl": "https://youtu.be/9BR3j8q23Ig"
+            },
+            {
+              "name": "Rear Foot Elevated Stiffness Jump",
+              "videoUrl": "https://youtu.be/sbxxpMSTrHY"
+            },
+            {
+              "name": "20min Dunk Session",
+              "videoUrl": "https://youtu.be/CRFW11NWGVo"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/1P3BtNEjd8A",
+          "exercises": [
+            {
+              "name": "Elevated Stir the Pot Rockers",
+              "videoUrl": "https://youtu.be/I5Iqn7kGJaI"
+            },
+            {
+              "name": "Band Straight Leg Raise",
+              "videoUrl": "https://youtu.be/siVECbgPNL0"
+            },
+            {
+              "name": "Stability Ball Hip Twist",
+              "videoUrl": "https://youtu.be/LJB-kzQOzi8"
+            },
+            {
+              "name": "Standing Hip Car",
+              "videoUrl": "https://youtu.be/88T5GdHy__U"
+            },
+            {
+              "name": "Side Plank Row",
+              "videoUrl": "https://youtu.be/bWsHZ2uW9us"
+            },
+            {
+              "name": "Ankle Toe Crawls",
+              "videoUrl": "https://youtu.be/u0EyuZndvkY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 11,
+      "title": "High/Low Intensity",
+      "workouts": [
+        {
+          "name": "Lower Body (High Intensity)",
+          "overviewUrl": "https://youtu.be/LMFE19p2xfM",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Banded Accelerations",
+              "videoUrl": "https://youtu.be/cYvD6YUqw7M"
+            },
+            {
+              "name": "Lateral Bound Dumbbell Punch lvl  2",
+              "videoUrl": "https://youtu.be/AQwfJ0_1_1k"
+            },
+            {
+              "name": "Hang Clean Pull",
+              "videoUrl": "https://youtu.be/UehsnYmwkTk"
+            },
+            {
+              "name": "Assisted Jump",
+              "videoUrl": "https://youtu.be/s91H-GiUUJc"
+            },
+            {
+              "name": "Banded Quarter Squats",
+              "videoUrl": "https://youtu.be/laU-Fe7wNXY"
+            },
+            {
+              "name": "High Box Depth Jump",
+              "videoUrl": "https://youtu.be/9BR3j8q23Ig"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Lower Body (Lower Intensity Isolations)",
+          "overviewUrl": "https://youtu.be/mJIw-d41LpE",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Submaximal Bound",
+              "videoUrl": "https://youtu.be/BT4AEU2se7c"
+            },
+            {
+              "name": "Hamstring Walk Outs",
+              "videoUrl": "https://youtu.be/0r3jP_E7j50"
+            },
+            {
+              "name": "Side Plank Hip Abduction",
+              "videoUrl": "https://youtu.be/Gp4lJIXX5QA"
+            },
+            {
+              "name": "Four Way Ankle Walks",
+              "videoUrl": "https://youtu.be/Evt480AzV9g"
+            }
+          ]
+        },
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/VYAdqhT1wMk",
+          "exercises": [
+            {
+              "name": "Barbell Rollout",
+              "videoUrl": "https://youtu.be/0fZKjWYbVco"
+            },
+            {
+              "name": "Deep Squat Ankle Mobility",
+              "videoUrl": "https://youtu.be/CDuqhC9wa4s"
+            },
+            {
+              "name": "Split Stance Anti Rotation ABC",
+              "videoUrl": "https://youtu.be/1TqxtWcVPQg"
+            },
+            {
+              "name": "Hip Flexor Box",
+              "videoUrl": "https://youtu.be/T4Uo2R3Kv-w"
+            },
+            {
+              "name": "Stability Ball Roll Up",
+              "videoUrl": "https://youtu.be/KjmGfCKNicY"
+            },
+            {
+              "name": "90/90 Loaded Mobility",
+              "videoUrl": "https://youtu.be/uc0tQKxHnmI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 12,
+      "title": "Final Phase",
+      "workouts": [
+        {
+          "name": "Lower Body (High Intensity)",
+          "overviewUrl": "https://youtu.be/TJzDr2deq0E",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "Overcoming Ankle Isometrics",
+              "videoUrl": "https://youtu.be/SXxAK-Rv56A"
+            },
+            {
+              "name": "Drop Lateral Box Jump",
+              "videoUrl": "https://youtu.be/QSX9zhKV1RU"
+            },
+            {
+              "name": "Split Stance Half Squat",
+              "videoUrl": "https://youtu.be/e2q6Tz7QPHs"
+            },
+            {
+              "name": "Heavy Single Leg Hip Bridge",
+              "videoUrl": "https://youtu.be/_ePfmH2I20g"
+            },
+            {
+              "name": "Band Resisted Line Hops",
+              "videoUrl": "https://youtu.be/kqJ19RtYEtU"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Lower Body (Low Intensity)",
+          "overviewUrl": "https://youtu.be/0P-TIm2WKkM",
+          "exercises": [
+            {
+              "name": "Foam Roller Circuit",
+              "videoUrl": "https://youtu.be/364gqeEdMSU"
+            },
+            {
+              "name": "Dynamic Warmup",
+              "videoUrl": "https://youtu.be/dsBwqf1t1AU"
+            },
+            {
+              "name": "90/90 Loaded Mobility",
+              "videoUrl": "https://youtu.be/uc0tQKxHnmI"
+            },
+            {
+              "name": "Around the World Cross Drives",
+              "videoUrl": "https://youtu.be/3TTyQ0Zinm4"
+            },
+            {
+              "name": "Slanted Isometric Hold",
+              "videoUrl": "https://youtu.be/ri_VRIAJ8Dc"
+            },
+            {
+              "name": "Nordic Hamstring Curls",
+              "videoUrl": "https://youtu.be/yzAkmCcoFHs"
+            },
+            {
+              "name": "Rapid Calf Raise",
+              "videoUrl": "https://youtu.be/Zl6xhK_is1k"
+            },
+            {
+              "name": "Seven Eleven Breathing",
+              "videoUrl": "https://youtu.be/_l7mcDD_cl8"
+            },
+            {
+              "name": "Static Stretch",
+              "videoUrl": "https://youtu.be/LaGI-fLVHWM"
+            }
+          ]
+        },
+        {
+          "name": "Core and Mobility",
+          "overviewUrl": "https://youtu.be/m479ErUf7BA",
+          "exercises": [
+            {
+              "name": "Cable Deadbug",
+              "videoUrl": "https://youtu.be/4jri8mxS5Oc"
+            },
+            {
+              "name": "Elastic Leg Kicks",
+              "videoUrl": "https://youtu.be/MMzcVfqZykM"
+            },
+            {
+              "name": "Hollow Press",
+              "videoUrl": "https://youtu.be/hlkzGodQXeE"
+            },
+            {
+              "name": "Kneeling Hip Series",
+              "videoUrl": "https://youtu.be/jNzIJ3a7Ifc"
+            },
+            {
+              "name": "Lateral Step Core Stiffness",
+              "videoUrl": "https://youtu.be/0NA2Uq8a9Vw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
